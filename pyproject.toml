@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyproject"
+name = "functional"
 version = "0.1.0"
 description = ""
 authors = ["Farshad Sanginnezhad <fxfix3r@gmail.com>"]
