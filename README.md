@@ -22,13 +22,25 @@ This project is organized into several folders and files, which are described be
 
 To run the program, follow the steps below:
 
-1. Clone the repository from GitHub: `git clone https://github.com/fsanginnezhad/Tic-Tac-Toe---Functional.git`.
+1. Clone the repository from GitHub:
+   ```
+   git clone https://github.com/fsanginnezhad/Tic-Tac-Toe---Functional.git
+   ```
 
-2. Go to the project directory: "cd Tic-Tac-Toe---Functional".
+2. Go to the project directory:
+   ```
+   cd Tic-Tac-Toe---Functional
+   ```
 
-3. Install the required dependencies: pip install -r requirements.txt
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
-4. Run the program: "python run.py".
+5. Run the program:
+   ```
+   python run.py
+   ```
 
 ## Use
 
